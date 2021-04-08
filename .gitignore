@@ -1,0 +1,7 @@
+# test data
+output/
+testdata/
+test321825725/
+
+# bins
+incremental-ish
